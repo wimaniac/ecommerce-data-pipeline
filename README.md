@@ -1,9 +1,9 @@
-# E-commerce ETL Data Pipeline 🛒
+# E-commerce ETL Data Pipeline �
 
 ## Tổng quan (Overview)
 Dự án xây dựng pipeline dữ liệu tự động (ETL) để xử lý dữ liệu giao dịch bán lẻ (Online Retail II dataset), chuyển đổi dữ liệu thô thành mô hình **Star Schema** và lưu trữ vào Data Warehouse để phục vụ phân tích kinh doanh.
 
-## 🛠️ Công nghệ sử dụng (Tech Stack)
+## Công nghệ sử dụng (Tech Stack)
 * **Ngôn ngữ:** Python 3.9+
 * **Xử lý dữ liệu:** Pandas, NumPy
 * **Database:** SQLite (Demo), SQLAlchemy
