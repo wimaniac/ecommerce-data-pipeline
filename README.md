@@ -1,5 +1,11 @@
 # E-commerce ETL Data Pipeline �
+Dự án sử dụng bộ dữ liệu nổi tiếng Online Retail II (nguồn: UCI Machine Learning Repository). Đây là bộ dữ liệu giao dịch thực tế của một doanh nghiệp bán lẻ trực tuyến (non-store online retail) có trụ sở tại Vương quốc Anh, chuyên bán các mặt hàng quà tặng độc đáo.
 
+Thời gian dữ liệu: 01/12/2009 - 09/12/2011.
+
+Đặc điểm: Bao gồm cả giao dịch bán buôn (B2B) và bán lẻ (B2C).
+
+Kích thước: Khoảng 1 triệu dòng (rows) dữ liệu giao dịch.
 ## Tổng quan (Overview)
 Dự án xây dựng pipeline dữ liệu tự động (ETL) để xử lý dữ liệu giao dịch bán lẻ (Online Retail II dataset), chuyển đổi dữ liệu thô thành mô hình **Star Schema** và lưu trữ vào Data Warehouse để phục vụ phân tích kinh doanh.
 
