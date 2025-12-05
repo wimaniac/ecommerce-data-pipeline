@@ -1,0 +1,18 @@
+# Bỏ qua thư mục môi trường ảo
+venv/
+.env
+
+# Bỏ qua các file cache của Python
+__pycache__/
+*.pyc
+
+# Bỏ qua file dữ liệu (thường không up data gốc lên git vì nặng và bảo mật)
+data/raw_data/
+data/processed_data/
+data/warehouse.db
+
+# Bỏ qua file log
+*.log
+
+# Bỏ qua file hệ thống
+.DS_Store
